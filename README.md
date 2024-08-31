@@ -1,9 +1,8 @@
-EN:
-Tofik BackDoor Plugin Detailed Guide
-Tofik BackDoor Plugin is a powerful and potentially disruptive Minecraft plugin designed for testing and educational purposes. Use it with caution, especially on live servers, as it includes commands that can significantly affect the gameplay environment. Here’s a comprehensive guide on how to use each feature of the plugin:
+EN: Tofik BackDoor Plugin Detailed Guide
+The Tofik BackDoor Plugin is a powerful and potentially disruptive Minecraft plugin designed for testing and educational purposes. Use it with caution, especially on live servers, as it includes commands that can significantly affect the gameplay environment. Here’s a comprehensive guide on how to use each feature of the plugin:
 
 Installation
-Download the plugin .jar file from the release section.
+Download the .jar file of the plugin from the releases section.
 Place the .jar file into the plugins folder of your Minecraft server.
 Restart your Minecraft server to load the plugin.
 Commands
@@ -15,12 +14,12 @@ Example: $connect
 2. $disconnect
 
 Usage: $disconnect
-Description: Disconnects from the Tofik BackDoor Plugin. This stops all further commands until reconnected.
+Description: Disconnects from the Tofik BackDoor Plugin, halting all further commands until reconnected.
 Example: $disconnect
 3. $say <message>
 
 Usage: $say <message>
-Description: Sends a message to the server chat. Useful for announcing or giving instructions.
+Description: Sends a message to the server chat, useful for announcements or instructions.
 Example: $say Welcome to the server!
 4. $deopalladmins
 
@@ -30,12 +29,12 @@ Example: $deopalladmins
 5. $startspamtnt
 
 Usage: $startspamtnt
-Description: Starts a TNT spam, causing multiple TNT explosions at regular intervals.
+Description: Starts TNT spam, causing multiple TNT explosions at regular intervals.
 Example: $startspamtnt
 6. $stopspamtnt
 
 Usage: $stopspamtnt
-Description: Stops the ongoing TNT spam. Must be used to halt the TNT explosions started by $startspamtnt.
+Description: Stops the ongoing TNT spam.
 Example: $stopspamtnt
 7. $floodlava
 
@@ -137,10 +136,10 @@ Example: $stopdeopingall
 Usage: $opall
 Description: Grants OP status to all players on the server.
 Example: $opall
-27. $gm <mode>
+**27. $gm <mode>`
 
 Usage: $gm <mode>
-Description: Changes your game mode. You can use names (survival, creative, adventure, spectator) or numbers (0, 1, 2, 3).
+Description: Changes your game mode. Use names (survival, creative, adventure, spectator) or numbers (0, 1, 2, 3).
 Example: $gm creative
 28. $tofikpoison
 
@@ -152,9 +151,7 @@ Example: $tofikpoison
 Usage: $tofikblind
 Description: Applies a blindness effect to yourself, reducing visibility.
 Example: $tofikblind
-
-PL:
-Szczegółowy przewodnik po Tofik BackDoor Plugin
+PL: Szczegółowy przewodnik po Tofik BackDoor Plugin
 Tofik BackDoor Plugin to potężny i potencjalnie zakłócający plugin Minecraft, zaprojektowany do testowania i celów edukacyjnych. Używaj go z ostrożnością, zwłaszcza na aktywnych serwerach, ponieważ zawiera komendy, które mogą znacząco wpłynąć na środowisko gry. Oto szczegółowy przewodnik, jak używać każdej funkcji pluginu:
 
 Instalacja
@@ -170,12 +167,12 @@ Przykład: $connect
 2. $disconnect
 
 Użycie: $disconnect
-Opis: Rozłącza się z Tofik BackDoor Plugin. Zatrzymuje wszystkie dalsze komendy, dopóki nie zostanie ponownie połączony.
+Opis: Rozłącza się z Tofik BackDoor Plugin, zatrzymując wszystkie dalsze komendy, dopóki nie zostanie ponownie połączony.
 Przykład: $disconnect
 3. $say <wiadomość>
 
 Użycie: $say <wiadomość>
-Opis: Wysyła wiadomość na czat serwera. Przydatne do ogłaszania lub udzielania instrukcji.
+Opis: Wysyła wiadomość na czat serwera, przydatne do ogłaszania lub udzielania instrukcji.
 Przykład: $say Witaj na serwerze!
 4. $deopalladmins
 
@@ -190,7 +187,7 @@ Przykład: $startspamtnt
 6. $stopspamtnt
 
 Użycie: $stopspamtnt
-Opis: Zatrzymuje trwające spamowanie TNT. Musi być użyta, aby zatrzymać eksplozje TNT rozpoczęte przez $startspamtnt.
+Opis: Zatrzymuje trwające spamowanie TNT.
 Przykład: $stopspamtnt
 7. $floodlava
 
@@ -292,7 +289,7 @@ Przykład: $stopdeopingall
 Użycie: $opall
 Opis: Nadaje uprawnienia OP wszystkim graczom na serwerze.
 Przykład: $opall
-27. $gm <tryb>
+**27. $gm <tryb>`
 
 Użycie: $gm <tryb>
 Opis: Zmienia Twój tryb gry. Możesz używać nazw (survival, creative, adventure, spectator) lub numerów (0, 1, 2, 3).
