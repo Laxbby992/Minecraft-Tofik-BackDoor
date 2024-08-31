@@ -1,4 +1,4 @@
-EN: Tofik BackDoor Plugin Detailed Guide
+# EN: Tofik BackDoor Plugin Detailed Guide
 The Tofik BackDoor Plugin is a powerful and potentially disruptive Minecraft plugin designed for testing and educational purposes. Use it with caution, especially on live servers, as it includes commands that can significantly affect the gameplay environment. Here’s a comprehensive guide on how to use each feature of the plugin:
 
 Installation
@@ -151,7 +151,7 @@ Example: $tofikpoison
 Usage: $tofikblind
 Description: Applies a blindness effect to yourself, reducing visibility.
 Example: $tofikblind
-PL: Szczegółowy przewodnik po Tofik BackDoor Plugin
+# PL: Szczegółowy przewodnik po Tofik BackDoor Plugin
 Tofik BackDoor Plugin to potężny i potencjalnie zakłócający plugin Minecraft, zaprojektowany do testowania i celów edukacyjnych. Używaj go z ostrożnością, zwłaszcza na aktywnych serwerach, ponieważ zawiera komendy, które mogą znacząco wpłynąć na środowisko gry. Oto szczegółowy przewodnik, jak używać każdej funkcji pluginu:
 
 Instalacja
